@@ -1,5 +1,5 @@
 ![Tec de Monterrey](images/logotecmty.png)
-# Ejercicios Básicos!
+# Homework 1: T
 
 - 07 Pendiente Línea
 - 08 Caracol
